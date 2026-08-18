@@ -1,5 +1,6 @@
 # Ristinolla
 Ristinolla-peli minimax algoritmilla (AI) ja graafisella käyttöliittymällä
+--
 <img width="201" height="239" alt="image" src="https://github.com/user-attachments/assets/7758c49a-1cd5-4325-b6e3-943080fdccd7" />
 --
 Ristinolla peli, jossa tietokoneen siirto määritellään minimax-algoritmilla.
